@@ -1,8 +1,7 @@
----
-date : "2025-05-22T23:11:01+06:00"
-title : "My First Post"
----
-Demo post
++++
+date = '2025-05-22T23:11:01+06:00'
+title = 'My First Post'
++++
 
 Hello Everyone. I am Mashfiqur Rahman from Bangladesh.
 
