@@ -1,0 +1,4 @@
+baseURL = "https://mashfiqur05.github.io/Semicolon/"
+languageCode = "en-us"
+title = "Semicolon"
+theme = "hugo-PaperMod"

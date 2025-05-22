@@ -1,0 +1,4 @@
+[submodule "Semicolon/public"]
+	path = Semicolon/public
+	url = https://github.com/mashfiqur05/Semicolon.github.io.git
+	branch = main
